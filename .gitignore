@@ -1,0 +1,4 @@
+nginx/
+build.ps1
+build.sh
+tsconfig.json
