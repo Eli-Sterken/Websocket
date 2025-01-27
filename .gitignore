@@ -1,4 +1,2 @@
-nginx/
-build.ps1
-build.sh
-tsconfig.json
+package-lock.json
+node_modules
